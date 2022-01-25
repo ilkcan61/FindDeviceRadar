@@ -8,4 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FindDeviceRadar"
 include ':app'
-include ':FindDeviceRadar'
+include ':RadarFindDevice'
