@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="RadarView">
+    <attr name="distance" format="float" />
+    <attr name="circleBackgroundColor" format="color" />
+    <attr name="deviceDrawable" format="reference" />
+    <attr name="measurementUnit" format="string" />
+
+  </declare-styleable>
+</resources>
